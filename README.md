@@ -88,17 +88,12 @@ It will open in your default web browser.
 Start typing and enjoy the sarcasm! 🤪
 
 ### Project Documentation
-For Software:![alt text](<WhatsApp Image 2025-08-08 at 19.34.29_90e6a071.jpg>)
+For Software:![alt text](download.jpg)
 
 # Screenshots (Add at least 3)
 ![Screenshot1]![alt text]("C:\Users\ankit\Desktop\useless_project_temp\Screenshot 2025-08-09 001114.png")
 
 ![Screenshot2]![alt text](<Screenshot 2025-08-09 001328-1.png>)
-
-![Screenshot3]![alt text]("C:\Users\ankit\Pictures\Screenshots\Screenshot 2025-08-09 001646.png")
-### Project Demo
-# Video
-<video controls src="Recording 2025-08-09 025114.mp4" title="Title"></video>
 
 
 ## Team Contributions
@@ -113,6 +108,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
