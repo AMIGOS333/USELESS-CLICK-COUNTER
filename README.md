@@ -91,7 +91,8 @@ Start typing and enjoy the sarcasm! 🤪
 For Software:![alt text](download.jpg)
 
 # Screenshots (Add at least 3)
-![Screenshot1]![alt text]("C:\Users\ankit\Desktop\useless_project_temp\Screenshot 2025-08-09 001114.png")
+![alt text]("<img width="1393" height="658" alt="Screenshot 2025-08-09 001114" src="https://github.com/user-attachments/assets/73317580-404b-4734-8bfc-9904ebb6e442" />")
+
 
 ![Screenshot2]![alt text](Screenshot 2025-08-09 001114.png)
 
@@ -108,6 +109,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
