@@ -6,8 +6,8 @@
 
 ## Basic Details
 ### Team Name: AMIGOS
-
-
+### WEBSITE LINK
+<a href="https://amigos333.github.io/USELESS-CLICK-COUNTER/useless%20project.html">Click here</a>
 ### Team Members
 - Team Lead: AKASH M M - NSS COLLEGE OF ENGINEERING PALAKKAD
 - Member 2: DHANUSH AJAYAN  - NSS COLLEGE OF ENGINEERING PALAKKAD
@@ -105,6 +105,7 @@ Made with ❤️ at TinkerHub Useless Projects
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
 ![Static Badge](https://img.shields.io/badge/UselessProjects--25-25?link=https%3A%2F%2Fwww.tinkerhub.org%2Fevents%2FQ2Q1TQKX6Q%2FUseless%2520Projects)
+
 
 
 
